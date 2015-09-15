@@ -27,3 +27,5 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 
 # Use Unicorn as the app server
 gem 'puma'
+
+gem 'tzinfo-data', platforms: [:mingw, :mswin, :jruby]

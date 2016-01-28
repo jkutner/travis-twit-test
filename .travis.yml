@@ -1,0 +1,6 @@
+language: ruby
+rvm:
+  - jruby-9.0.4.0
+bundler_args: --without production --binstubs
+jdk:
+  - oraclejdk8
